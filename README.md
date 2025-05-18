@@ -1,1 +1,1 @@
-# Micro_IT_Rock_Paper_Scissors_Project
+# Rock_Paper_Scissors_Project
